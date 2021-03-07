@@ -1,4 +1,5 @@
 # Covid-Report
+a simple website that shows the number of total cases, recovered, and deaths coronavirus dissease.
 
 ## Getting Started
 To run this application in your computer locally, please follow the instructions stated below.
