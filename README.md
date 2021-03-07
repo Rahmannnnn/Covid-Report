@@ -19,4 +19,4 @@ npm run start-dev
 ```
 
 ## Preview
-bit.ly/covidReport
+[Covid Report](https://covid-info-4c8fb.web.app/)
